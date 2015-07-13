@@ -1,5 +1,5 @@
 var log = "log"
-	//Hello = "Hello";
+Hello = "Hello";
 console.log(log);
 
 console.log(Hello);
