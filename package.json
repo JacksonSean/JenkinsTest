@@ -15,7 +15,7 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^0.10.0",
-    "istanbul": "^0.3.2",
-    "tape": "^3.0.3"
+    "istanbul": "^0.3.17",
+    "tape": "^4.0.0"
   }
 }
