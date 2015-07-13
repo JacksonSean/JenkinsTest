@@ -3,4 +3,4 @@ console.log(log);
 var Hello = "Hello";
 
 console.log(Hello);
-console.log("Test");
+console.log("Test")
