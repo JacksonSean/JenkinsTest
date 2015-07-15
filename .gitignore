@@ -1,5 +1,5 @@
+checkstyle-result.xml
 node_modules
-bower_components
+test.tap
+coverage
 .DS_Store
-README.md
-bower.json
