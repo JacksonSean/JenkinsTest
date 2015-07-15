@@ -65,5 +65,5 @@ gulp.task('jenk', function() {
     .pipe(jenkins.build('Test', {
       target_env: 'prod',
       tag_name: 'tags/v0.07/trunk'
-    }));
+    }));                            
 });
